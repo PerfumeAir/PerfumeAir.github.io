@@ -11,10 +11,11 @@ body {
 h1 {
   font-size: 60px;
   text-align: center;
-  font-family:'Comic Sans MS';
+  
 }
-h1 {
+h1 ,h2{
   margin: 0;
+  font-family:'Comic Sans MS';
   padding: 20px 0;
   color: #00539F;
   text-shadow: 3px 3px 3px rgb(249, 117, 117);
@@ -31,4 +32,18 @@ p, li {
 }
 strong {
   color:red;
+}
+article{
+  font-family:'Comic Sans MS';
+  color: #00539F;
+  text-shadow: 3px 3px 3px rgb(249, 117, 117);
+}
+aside {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+  color: #29627e;
 }

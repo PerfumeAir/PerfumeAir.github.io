@@ -1,5 +1,5 @@
 let myButton = document.querySelector("button");
-let myHeading = document.querySelector("h1");
+let myHeading = document.querySelector("h2");
 
 function setUserName() {
   let myName = prompt("请输入你的名字。");
