@@ -1,2 +1,2 @@
-This is a project about testing web pages in learning web development
-Elements: Image, Video, Audio
+This is a personal testing webpage for learning web development. 
+Includes links to relevant resources (images, videos, audio, etc.).
