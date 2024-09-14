@@ -1,10 +1,12 @@
 html {
-  background-color: #43e9fc86;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,225,233,1) 100%);
 }
 body {
   width: 1000px;
   margin: 0 auto;
-  background-color: #e268fd;
+  background: rgb(238,174,224);
+  background: radial-gradient(circle, rgba(238,174,224,1) 0%, rgba(148,233,231,1) 100%);
   padding: 0 20px 20px 20px;
   border: 5px solid rgb(252, 159, 159)
 }
